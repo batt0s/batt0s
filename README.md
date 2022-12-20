@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @batt0s
 - 👀 I’m interested in Linux, Programming and Math
-- 🌱 I’m currently learning Machine Learning 
+- 🌱 I’m currently learning Haskell
 - 📫 How to reach me: kerem.ullen@pm.me
 
 <!---
