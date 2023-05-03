@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @batt0s
 - 👀 I’m interested in Linux, Programming and Math
-- 🌱 I’m currently learning Java
 - 📫 How to reach me: kerem.ullen@pm.me
 
 <!---
