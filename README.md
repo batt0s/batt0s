@@ -1,7 +1,7 @@
 ## About me:
 Hi, I'm @batt0s. <br>
 I'm interested in linux, programming and math. <br>
-I usually do backend stuff, and currently I'm doing an internship as a Django Developer. <br>
+I usually do backend stuff, and currently I'm working as Django Developer. <br>
 You can reach me at: kerem.ullen@pm.me <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kerem-ullen) 
 
