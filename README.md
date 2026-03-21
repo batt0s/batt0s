@@ -10,5 +10,5 @@ or send a message on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B
 ## Working on
 I'm currently working on a cryptography project for my final year project. I'm trying to build a KEM-DEM system using Classic McElliece & AES256.
 
-I also have a project (which I'm not currently working on) of an interpreter with Go. I wan't to make it pure functional with high-capability of math.
+I also have a project (which I'm not currently working on) of an interpreter with Go. I want to make it pure functional with high-capability of math.
 
